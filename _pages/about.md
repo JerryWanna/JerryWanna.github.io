@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am **[Your Name]**. Welcome to my academic website.
+Hello, I am **Jiayue wang**. Welcome to my academic website.
 
 ## Research Interests
 
