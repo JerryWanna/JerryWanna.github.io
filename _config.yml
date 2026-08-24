@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "JerryWanna | 个人学术主页"
+title                    : "JerryWanna | Academic Profile"
 title_separator          : "-"
-name                     : &name "你的姓名"
-description              : &description "个人简历、研究成果与项目作品集"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Your Name"
+description              : &description "Academic résumé, research, and project portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://JerryWanna.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,12 +23,12 @@ repository               : "JerryWanna/JerryWanna.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # 上传头像到 images/profile.png 后填写 "profile.png"
-  name             : "你的姓名"
+  avatar           : # Upload your photo to images/profile.png, then enter "profile.png"
+  name             : "Your Name"
   pronouns         : # example: "she/her"  
-  bio              : "请在这里填写一句简短的个人介绍"
-  location         : "所在城市"
-  employer         : "学校或工作单位"
+  bio              : "Add a short professional introduction here"
+  location         : "City, Country"
+  employer         : "University or Organization"
   uri              : # URL
   email            : # "your-email@example.com" 
 
