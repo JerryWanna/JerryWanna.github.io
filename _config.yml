@@ -23,7 +23,7 @@ repository               : "JerryWanna/JerryWanna.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # Upload your photo to images/profile.png, then enter "profile.png"
+  avatar           : "profile.jpg"
   name             : "Your Name"
   pronouns         : # example: "she/her"  
   bio              : "Add a short professional introduction here"
