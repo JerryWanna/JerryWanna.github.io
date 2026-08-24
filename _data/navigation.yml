@@ -1,15 +1,15 @@
 main:
-  - title: "首页"
+  - title: "Home"
     url: /
 
-  - title: "研究成果"
+  - title: "Publications"
     url: /publications/
 
-  - title: "项目"
+  - title: "Projects"
     url: /portfolio/
 
-  - title: "教学"
+  - title: "Teaching"
     url: /teaching/
 
-  - title: "简历"
+  - title: "CV"
     url: /cv/
