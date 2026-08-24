@@ -22,10 +22,10 @@ My research focuses on understanding phase-transition processes in phase-change 
 
 ## Education
 
-**Ph.D. Candidate**  
+**Ph.D. Candidate in Materials Science and Engineering**  
 Xi’an Jiaotong University · 2023–Present
 
-**Bachelor’s Degree**  
+**Bachelor’s Degree in Materials Chemistry**  
 Central South University · 2018–2022
 
 ## Research and Professional Experience
