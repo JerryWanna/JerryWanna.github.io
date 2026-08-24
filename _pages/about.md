@@ -1,49 +1,49 @@
 ---
 permalink: /
-title: "个人简介"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-你好，我是 **[你的姓名]**。欢迎来到我的个人学术主页。
+Hello, I am **[Your Name]**. Welcome to my academic website.
 
-## 研究方向
+## Research Interests
 
-请在这里用 2–3 句话介绍你的研究兴趣、专业方向或目前关注的问题。
+Use two or three sentences to introduce your research interests, academic focus, and the questions you are currently exploring.
 
-- 研究方向一
-- 研究方向二
-- 研究方向三
+- Research area one
+- Research area two
+- Research area three
 
-## 教育经历
+## Education
 
-**[学位名称]，[专业名称]**  
-[学校名称] · [开始年份]–[结束年份]
+**[Degree], [Field of Study]**  
+[University Name] · [Start Year]–[End Year]
 
-## 工作与研究经历
+## Research and Professional Experience
 
-**[职位名称]** · [单位名称]  
-[开始时间]–[结束时间]
+**[Position]** · [Institution or Organization]  
+[Start Date]–[End Date]
 
-- 描述你的主要职责、研究内容或代表性成果。
-- 可使用数据说明影响，例如论文、项目、奖项或业务成果。
+- Describe your primary responsibilities, research activities, or key contributions.
+- Add measurable outcomes where possible, such as publications, projects, awards, or broader impact.
 
-## 精选成果
+## Selected Work
 
-1. **[论文或项目名称]** — 一句话说明你的贡献与成果。
-2. **[论文或项目名称]** — 一句话说明你的贡献与成果。
-3. **[论文或项目名称]** — 一句话说明你的贡献与成果。
+1. **[Publication or Project Title]** — Briefly describe your contribution and the result.
+2. **[Publication or Project Title]** — Briefly describe your contribution and the result.
+3. **[Publication or Project Title]** — Briefly describe your contribution and the result.
 
-## 技能
+## Skills
 
-- **研究与分析：** [方法 / 工具 / 领域]
-- **编程语言：** [Python / R / C++ / 其他]
-- **语言能力：** [语言及熟练程度]
+- **Research and Analysis:** [Methods / Tools / Fields]
+- **Programming:** [Python / R / C++ / Other]
+- **Languages:** [Language and proficiency]
 
-## 联系方式
+## Contact
 
-请通过左侧栏中的邮箱或 GitHub 与我联系。
+Please contact me through the email address or GitHub profile shown in the sidebar.
 
-> 编辑提示：网站全局信息位于 `_config.yml`；论文、项目、教学与演讲内容分别放在对应的下划线目录中。
+> Editing note: update site-wide information in `_config.yml`. Add publications, projects, teaching, and talks to their corresponding underscore-prefixed directories.
