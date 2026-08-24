@@ -22,8 +22,11 @@ My research focuses on understanding phase-transition processes in phase-change 
 
 ## Education
 
-**[Degree], [Field of Study]**  
-[University Name] · [Start Year]–[End Year]
+**Ph.D. Candidate**  
+Xi’an Jiaotong University · 2023–Present
+
+**Bachelor’s Degree**  
+Central South University · 2018–2022
 
 ## Research and Professional Experience
 
