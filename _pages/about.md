@@ -32,9 +32,9 @@ Use two or three sentences to introduce your research interests, academic focus,
 
 ## Selected Work
 
-1. **[Publication or Project Title]** — Briefly describe your contribution and the result.
-2. **[Publication or Project Title]** — Briefly describe your contribution and the result.
-3. **[Publication or Project Title]** — Briefly describe your contribution and the result.
+1. X.-Z. Wang, J. Wang, Y. Jiang, S. Sun, J.-J. Wang, R. Mazzarello, **Wei Zhang**\*, “Spin glass behavior in amorphous CrSiTe₃ alloy,” ***Physica Status Solidi RRL*** **19**, 2500118 (2025).
+
+2. R. Chu, X. Shen, J. Wang, S. Sun, M. Wuttig, R. Mazzarello\*, **Wei Zhang**\*, “Ab initio investigation of amorphous and crystalline arsenic sesqui-chalcogenides: optical properties explained by metavalent bonding,” ***Physica Status Solidi RRL*** **18**, 2400311 (2024).
 
 ## Skills
 
