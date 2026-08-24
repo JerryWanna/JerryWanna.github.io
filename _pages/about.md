@@ -11,11 +11,14 @@ Hello, I am **[Your Name]**. Welcome to my academic website.
 
 ## Research Interests
 
-Use two or three sentences to introduce your research interests, academic focus, and the questions you are currently exploring.
+My research focuses on understanding phase-transition processes in phase-change materials through first-principles calculations based on density functional theory (DFT) and machine-learning interatomic potentials (MLIPs). By combining the accuracy of DFT with the efficiency and scalability of MLIPs, I investigate the structural evolution, crystallization mechanisms, and structure–property relationships of crystalline and amorphous phases across extended length and time scales. My work aims to provide an atomistic understanding of phase-change behavior and support the design of advanced phase-change materials.
 
-- Research area one
-- Research area two
-- Research area three
+- Phase-Change Materials
+- Phase-Transition and Crystallization Mechanisms
+- Density Functional Theory (DFT)
+- Machine-Learning Interatomic Potentials (MLIPs)
+- Amorphous and Crystalline Materials
+- Atomistic Simulation
 
 ## Education
 
