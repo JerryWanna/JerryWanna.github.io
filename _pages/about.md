@@ -52,4 +52,3 @@ Central South University · 2018–2022
 
 Please contact me through the email address or GitHub profile shown in the sidebar.
 
-> Editing note: update site-wide information in `_config.yml`. Add publications, projects, teaching, and talks to their corresponding underscore-prefixed directories.
