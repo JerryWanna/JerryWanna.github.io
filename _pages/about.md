@@ -28,6 +28,7 @@ Xi’an Jiaotong University · 2023–Present
 **Bachelor’s Degree in Materials Chemistry**  
 Central South University · 2018–2022
 
+<!--
 ## Research and Professional Experience
 
 **[Position]** · [Institution or Organization]  
@@ -35,6 +36,7 @@ Central South University · 2018–2022
 
 - Describe your primary responsibilities, research activities, or key contributions.
 - Add measurable outcomes where possible, such as publications, projects, awards, or broader impact.
+-->
 
 ## Selected Work
 
